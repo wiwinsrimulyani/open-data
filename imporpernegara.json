@@ -1,0 +1,4307 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.601554,42.546245 ]
+    },
+    "properties": {
+    "country":"AD",
+    "Negara":"ANDORRA",
+    "X2015":"0.1",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.847818,23.424076 ]
+    },
+    "properties": {
+    "country":"AE",
+    "Negara":"UNI EMIRAT ARAB",
+    "X2015":"314.8",
+    "X2016":"356.6",
+    "X2017":"502.5",
+    "X2018":"724.6",
+    "X2019":"842.4",
+    "X2020":"119.7",
+    "Peran2020":0.54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.709953,33.93911 ]
+    },
+    "properties": {
+    "country":"AF",
+    "Negara":"AFGANISTAN",
+    "X2015":"0.2",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0.5",
+    "X2019":"0.2",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.796428,17.060816 ]
+    },
+    "properties": {
+    "country":"AG",
+    "Negara":"ANTIGUA DAN BARBUDA",
+    "X2015":"0",
+    "X2016":"0.1",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.068615,18.220554 ]
+    },
+    "properties": {
+    "country":"AI",
+    "Negara":"ANGUILA",
+    "X2015":"1.3",
+    "X2016":"0.1",
+    "X2017":"0.1",
+    "X2018":"0.9",
+    "X2019":"0.2",
+    "X2020":"0.4",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.168331,41.153332 ]
+    },
+    "properties": {
+    "country":"AL",
+    "Negara":"ALBANIA",
+    "X2015":"0.2",
+    "X2016":"0.2",
+    "X2017":"0.1",
+    "X2018":"0.3",
+    "X2019":"0.5",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.038189,40.069099 ]
+    },
+    "properties": {
+    "country":"AM",
+    "Negara":"ARMENIA",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0.1",
+    "X2018":"0.5",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.060087,12.226079 ]
+    },
+    "properties": {
+    "country":"AN",
+    "Negara":"BELANDA",
+    "X2015":"782.9",
+    "X2016":"722.6",
+    "X2017":"982.2",
+    "X2018":"1,191.00",
+    "X2019":"825.8",
+    "X2020":"100.3",
+    "Peran2020":0.45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.873887,-11.202692 ]
+    },
+    "properties": {
+    "country":"AO",
+    "Negara":"ANGOLA",
+    "X2015":"1.1",
+    "X2016":"2.2",
+    "X2017":"1.2",
+    "X2018":"1.2",
+    "X2019":"1.8",
+    "X2020":"1.4",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071389,-75.250973 ]
+    },
+    "properties": {
+    "country":"AQ",
+    "Negara":"ANTARTICA",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"1",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.616672,-38.416097 ]
+    },
+    "properties": {
+    "country":"AR",
+    "Negara":"ARGENTINA",
+    "X2015":"1,298.30",
+    "X2016":"1,369.60",
+    "X2017":"1,157.70",
+    "X2018":"1,441.60",
+    "X2019":"1,806.90",
+    "X2020":"440.6",
+    "Peran2020":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -170.132217,-14.270972 ]
+    },
+    "properties": {
+    "country":"AS",
+    "Negara":"SAMOA AMERIKA",
+    "X2015":"4.7",
+    "X2016":"2.1",
+    "X2017":"6.4",
+    "X2018":"12.8",
+    "X2019":"0.7",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.550072,47.516231 ]
+    },
+    "properties": {
+    "country":"AT",
+    "Negara":"AUSTRIA",
+    "X2015":"316.2",
+    "X2016":"358.6",
+    "X2017":"342",
+    "X2018":"382",
+    "X2019":"252.7",
+    "X2020":"49.1",
+    "Peran2020":0.22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.775136,-25.274398 ]
+    },
+    "properties": {
+    "country":"AU",
+    "Negara":"AUSTRALIA",
+    "X2015":"4,672.40",
+    "X2016":"4,529.10",
+    "X2017":"5,044.00",
+    "X2018":"5,160.70",
+    "X2019":"4,673.40",
+    "X2020":"637.1",
+    "Peran2020":2.89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.968338,12.52111 ]
+    },
+    "properties": {
+    "country":"AW",
+    "Negara":"ARUBA",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.576927,40.143105 ]
+    },
+    "properties": {
+    "country":"AZ",
+    "Negara":"AZERBAIJAN",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0.2",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.679076,43.915886 ]
+    },
+    "properties": {
+    "country":"BA",
+    "Negara":"BOSNIA-HERCEGOVINA",
+    "X2015":"0.3",
+    "X2016":"0.4",
+    "X2017":"2.7",
+    "X2018":"0.8",
+    "X2019":"1",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.543198,13.193887 ]
+    },
+    "properties": {
+    "country":"BB",
+    "Negara":"BARBADOS",
+    "X2015":"0",
+    "X2016":"0.1",
+    "X2017":"0.2",
+    "X2018":"0.2",
+    "X2019":"0.2",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.356331,23.684994 ]
+    },
+    "properties": {
+    "country":"BD",
+    "Negara":"BANGLA DESH",
+    "X2015":"59.5",
+    "X2016":"68.4",
+    "X2017":"73.1",
+    "X2018":"89.5",
+    "X2019":"96.1",
+    "X2020":"19.3",
+    "Peran2020":0.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.469936,50.503887 ]
+    },
+    "properties": {
+    "country":"BE",
+    "Negara":"BELGIA",
+    "X2015":"555.4",
+    "X2016":"484.8",
+    "X2017":"588.1",
+    "X2018":"580.1",
+    "X2019":"543.6",
+    "X2020":"73.8",
+    "Peran2020":0.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.561593,12.238333 ]
+    },
+    "properties": {
+    "country":"BF",
+    "Negara":"BURKINA FASO",
+    "X2015":"49",
+    "X2016":"28.1",
+    "X2017":"16.1",
+    "X2018":"16.2",
+    "X2019":"8.5",
+    "X2020":"1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.48583,42.733883 ]
+    },
+    "properties": {
+    "country":"BG",
+    "Negara":"BULGARIA",
+    "X2015":"54.5",
+    "X2016":"75.3",
+    "X2017":"57",
+    "X2018":"68.8",
+    "X2019":"97.1",
+    "X2020":"22.2",
+    "Peran2020":0.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.637772,25.930414 ]
+    },
+    "properties": {
+    "country":"BH",
+    "Negara":"BAHRAIN",
+    "X2015":"20.3",
+    "X2016":"14.1",
+    "X2017":"32.5",
+    "X2018":"69.9",
+    "X2019":"27.6",
+    "X2020":"3.6",
+    "Peran2020":0.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.918886,-3.373056 ]
+    },
+    "properties": {
+    "country":"BI",
+    "Negara":"BURUNDI",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315834,9.30769 ]
+    },
+    "properties": {
+    "country":"BJ",
+    "Negara":"BENIN",
+    "X2015":"32.6",
+    "X2016":"18.8",
+    "X2017":"12.2",
+    "X2018":"5.2",
+    "X2019":"5.5",
+    "X2020":"0.3",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.75737,32.321384 ]
+    },
+    "properties": {
+    "country":"BM",
+    "Negara":"BERMUDA",
+    "X2015":"1.5",
+    "X2016":"1.8",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.727669,4.535277 ]
+    },
+    "properties": {
+    "country":"BN",
+    "Negara":"BRUNAI DARUSSALAM",
+    "X2015":"26.7",
+    "X2016":"8",
+    "X2017":"14.7",
+    "X2018":"20.1",
+    "X2019":"30.6",
+    "X2020":"7.2",
+    "Peran2020":0.03
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.588653,-16.290154 ]
+    },
+    "properties": {
+    "country":"BO",
+    "Negara":"BOLIVIA",
+    "X2015":"0.3",
+    "X2016":"0.3",
+    "X2017":"0.3",
+    "X2018":"1.9",
+    "X2019":"2.6",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.92528,-14.235004 ]
+    },
+    "properties": {
+    "country":"BR",
+    "Negara":"BRASILIA",
+    "X2015":"2,425.30",
+    "X2016":"2,402.30",
+    "X2017":"1,958.10",
+    "X2018":"1,792.70",
+    "X2019":"1,936.20",
+    "X2020":"304.7",
+    "Peran2020":1.38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.39628,25.03428 ]
+    },
+    "properties": {
+    "country":"BS",
+    "Negara":"BAHAMA",
+    "X2015":"0.1",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0.2",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.433601,27.514162 ]
+    },
+    "properties": {
+    "country":"BT",
+    "Negara":"BHUTAN",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.684866,-22.328474 ]
+    },
+    "properties": {
+    "country":"BW",
+    "Negara":"BOTSWANA",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.953389,53.709807 ]
+    },
+    "properties": {
+    "country":"BY",
+    "Negara":"BELARUS",
+    "X2015":"210.9",
+    "X2016":"163.7",
+    "X2017":"201.8",
+    "X2018":"217.6",
+    "X2019":"207.2",
+    "X2020":"33.1",
+    "Peran2020":0.15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.49765,17.189877 ]
+    },
+    "properties": {
+    "country":"BZ",
+    "Negara":"BELIZE",
+    "X2015":"2.3",
+    "X2016":"2.5",
+    "X2017":"3.6",
+    "X2018":"0.9",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.346771,56.130366 ]
+    },
+    "properties": {
+    "country":"CA",
+    "Negara":"KANADA",
+    "X2015":"1,608.60",
+    "X2016":"1,382.50",
+    "X2017":"1,553.00",
+    "X2018":"1,839.70",
+    "X2019":"1,837.70",
+    "X2020":"294.6",
+    "Peran2020":1.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.870956,-12.164165 ]
+    },
+    "properties": {
+    "country":"CC",
+    "Negara":"COCOS (KILLING) ILND",
+    "X2015":"3.3",
+    "X2016":"0",
+    "X2017":"0.1",
+    "X2018":"0.1",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.758664,-4.038333 ]
+    },
+    "properties": {
+    "country":"CD",
+    "Negara":"KONGO",
+    "X2015":"1.4",
+    "X2016":"2.3",
+    "X2017":"3.9",
+    "X2018":"6.5",
+    "X2019":"8.8",
+    "X2020":"0.6",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.939444,6.611111 ]
+    },
+    "properties": {
+    "country":"CF",
+    "Negara":"REP.AFRIKA TENGAH",
+    "X2015":"6.3",
+    "X2016":"4.1",
+    "X2017":"2.3",
+    "X2018":"0.7",
+    "X2019":"0.5",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.827659,-0.228021 ]
+    },
+    "properties": {
+    "country":"CG",
+    "Negara":"DEM. REP OF CONGO",
+    "X2015":"5.4",
+    "X2016":"7.1",
+    "X2017":"15.1",
+    "X2018":"7.7",
+    "X2019":"6.4",
+    "X2020":"2.2",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.227512,46.818188 ]
+    },
+    "properties": {
+    "country":"CH",
+    "Negara":"SWISS",
+    "X2015":"634.1",
+    "X2016":"722.2",
+    "X2017":"809.5",
+    "X2018":"874.1",
+    "X2019":"632.4",
+    "X2020":"110.8",
+    "Peran2020":0.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.54708,7.539989 ]
+    },
+    "properties": {
+    "country":"CI",
+    "Negara":"PANTAI GADING",
+    "X2015":"122.1",
+    "X2016":"52.6",
+    "X2017":"148.9",
+    "X2018":"135.9",
+    "X2019":"145.4",
+    "X2020":"18.5",
+    "Peran2020":0.08
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.777671,-21.236736 ]
+    },
+    "properties": {
+    "country":"CK",
+    "Negara":"KEP. COOK",
+    "X2015":"0",
+    "X2016":"0.5",
+    "X2017":"0.5",
+    "X2018":"0.2",
+    "X2019":"0.3",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.542969,-35.675147 ]
+    },
+    "properties": {
+    "country":"CL",
+    "Negara":"CHILI",
+    "X2015":"173.8",
+    "X2016":"83.3",
+    "X2017":"119.9",
+    "X2018":"115.1",
+    "X2019":"149.1",
+    "X2020":"16.1",
+    "Peran2020":0.07
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.354722,7.369722 ]
+    },
+    "properties": {
+    "country":"CM",
+    "Negara":"KAMERUN",
+    "X2015":"26.5",
+    "X2016":"20.8",
+    "X2017":"83.1",
+    "X2018":"71",
+    "X2019":"75.8",
+    "X2020":"8.1",
+    "Peran2020":0.04
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.195397,35.86166 ]
+    },
+    "properties": {
+    "country":"CN",
+    "Negara":"REP.RAKYAT CINA",
+    "X2015":"29,224.80",
+    "X2016":"30,689.50",
+    "X2017":"35,511.90",
+    "X2018":"45,251.20",
+    "X2019":"44,578.30",
+    "X2020":"5,923.40",
+    "Peran2020":26.82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.297333,4.570868 ]
+    },
+    "properties": {
+    "country":"CO",
+    "Negara":"KOLUMBIA",
+    "X2015":"6",
+    "X2016":"8.2",
+    "X2017":"16.1",
+    "X2018":"18",
+    "X2019":"12.8",
+    "X2020":"1.4",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.753428,9.748917 ]
+    },
+    "properties": {
+    "country":"CR",
+    "Negara":"COSTA RICA",
+    "X2015":"2.9",
+    "X2016":"5.7",
+    "X2017":"17.6",
+    "X2018":"3.2",
+    "X2019":"3.6",
+    "X2020":"0.8",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.781167,21.521757 ]
+    },
+    "properties": {
+    "country":"CU",
+    "Negara":"KUBA",
+    "X2015":"2",
+    "X2016":"1.8",
+    "X2017":"60.9",
+    "X2018":"1",
+    "X2019":"0.4",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.013197,16.002082 ]
+    },
+    "properties": {
+    "country":"CV",
+    "Negara":"CAPE VERDE",
+    "X2015":"3",
+    "X2016":"0",
+    "X2017":"0.1",
+    "X2018":"0.1",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.690449,-10.447525 ]
+    },
+    "properties": {
+    "country":"CX",
+    "Negara":"KEPULAUAN CHRISTMAS",
+    "X2015":"6.9",
+    "X2016":"3.3",
+    "X2017":"0.6",
+    "X2018":"4.7",
+    "X2019":"3.5",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.429859,35.126413 ]
+    },
+    "properties": {
+    "country":"CY",
+    "Negara":"SIPRUS",
+    "X2015":"3",
+    "X2016":"12.1",
+    "X2017":"4.7",
+    "X2018":"9.1",
+    "X2019":"52.9",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.472962,49.817492 ]
+    },
+    "properties": {
+    "country":"CZ",
+    "Negara":"REPUBLIK CZECH",
+    "X2015":"145.4",
+    "X2016":"158.9",
+    "X2017":"164.6",
+    "X2018":"151",
+    "X2019":"191.4",
+    "X2020":"74.9",
+    "Peran2020":0.34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "country":"DE",
+    "Negara":"JERMAN",
+    "X2015":"3,458.10",
+    "X2016":"3,150.70",
+    "X2017":"3,523.30",
+    "X2018":"3,961.30",
+    "X2019":"3,448.40",
+    "X2020":"556.4",
+    "Peran2020":2.52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.590275,11.825138 ]
+    },
+    "properties": {
+    "country":"DJ",
+    "Negara":"DJIBOUTI",
+    "X2015":"0",
+    "X2016":"0.1",
+    "X2017":"0.2",
+    "X2018":"0",
+    "X2019":"0.1",
+    "X2020":"0.3",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.501785,56.26392 ]
+    },
+    "properties": {
+    "country":"DK",
+    "Negara":"DENMARK",
+    "X2015":"201.3",
+    "X2016":"156.6",
+    "X2017":"167.5",
+    "X2018":"202.5",
+    "X2019":"204.7",
+    "X2020":"29.4",
+    "Peran2020":0.13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.370976,15.414999 ]
+    },
+    "properties": {
+    "country":"DM",
+    "Negara":"DOMINICA",
+    "X2015":"0.2",
+    "X2016":"1",
+    "X2017":"13.8",
+    "X2018":"9.4",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.162651,18.735693 ]
+    },
+    "properties": {
+    "country":"DO",
+    "Negara":"REPUBLIK DOMINICAN",
+    "X2015":"3.7",
+    "X2016":"10.4",
+    "X2017":"11.2",
+    "X2018":"14.7",
+    "X2019":"28.6",
+    "X2020":"2.1",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.659626,28.033886 ]
+    },
+    "properties": {
+    "country":"DZ",
+    "Negara":"ALJAZAIR",
+    "X2015":"1.2",
+    "X2016":"0.6",
+    "X2017":"1.6",
+    "X2018":"2.8",
+    "X2019":"1.3",
+    "X2020":"1.1",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.183406,-1.831239 ]
+    },
+    "properties": {
+    "country":"EC",
+    "Negara":"EKUADOR",
+    "X2015":"22.7",
+    "X2016":"48.3",
+    "X2017":"90.9",
+    "X2018":"151",
+    "X2019":"136.4",
+    "X2020":"61.2",
+    "Peran2020":0.28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.013607,58.595272 ]
+    },
+    "properties": {
+    "country":"EE",
+    "Negara":"ESTONIA",
+    "X2015":"3.5",
+    "X2016":"6.9",
+    "X2017":"8.7",
+    "X2018":"28.5",
+    "X2019":"24.4",
+    "X2020":"2.2",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.802498,26.820553 ]
+    },
+    "properties": {
+    "country":"EG",
+    "Negara":"MESIR",
+    "X2015":"110.2",
+    "X2016":"94.6",
+    "X2017":"116.4",
+    "X2018":"138.7",
+    "X2019":"135.3",
+    "X2020":"24.9",
+    "Peran2020":0.11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.885834,24.215527 ]
+    },
+    "properties": {
+    "country":"EH",
+    "Negara":"SAHARA BARAT",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.782334,15.179384 ]
+    },
+    "properties": {
+    "country":"ER",
+    "Negara":"ERITREA",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.74922,40.463667 ]
+    },
+    "properties": {
+    "country":"ES",
+    "Negara":"SPANYOL",
+    "X2015":"471.2",
+    "X2016":"482.9",
+    "X2017":"494.2",
+    "X2018":"679.9",
+    "X2019":"613.1",
+    "X2020":"80.2",
+    "Peran2020":0.36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.489673,9.145 ]
+    },
+    "properties": {
+    "country":"ET",
+    "Negara":"ETHIOPIA",
+    "X2015":"11",
+    "X2016":"23.7",
+    "X2017":"29.8",
+    "X2018":"37.4",
+    "X2019":"28.1",
+    "X2020":"3.5",
+    "Peran2020":0.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.748151,61.92411 ]
+    },
+    "properties": {
+    "country":"FI",
+    "Negara":"FINLANDIA",
+    "X2015":"534.1",
+    "X2016":"338.6",
+    "X2017":"609.5",
+    "X2018":"663.3",
+    "X2019":"506.6",
+    "X2020":"47.4",
+    "Peran2020":0.21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.414413,-16.578193 ]
+    },
+    "properties": {
+    "country":"FJ",
+    "Negara":"FIJI",
+    "X2015":"0.7",
+    "X2016":"1.2",
+    "X2017":"0.6",
+    "X2018":"0.9",
+    "X2019":"0.9",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.523613,-51.796253 ]
+    },
+    "properties": {
+    "country":"FK",
+    "Negara":"FALKLAND (MALVINAS)",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0.2",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.550812,7.425554 ]
+    },
+    "properties": {
+    "country":"FM",
+    "Negara":"FD STS MICRONESIA",
+    "X2015":"1.7",
+    "X2016":"9.8",
+    "X2017":"1.3",
+    "X2018":"0",
+    "X2019":"3.9",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.911806,61.892635 ]
+    },
+    "properties": {
+    "country":"FO",
+    "Negara":"KEPULAUAN FAEROE",
+    "X2015":"0.1",
+    "X2016":"0.2",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.213749,46.227638 ]
+    },
+    "properties": {
+    "country":"FR",
+    "Negara":"PERANCIS",
+    "X2015":"1,313.00",
+    "X2016":"1,356.40",
+    "X2017":"1,580.60",
+    "X2018":"1,648.90",
+    "X2019":"1,402.20",
+    "X2020":"238.7",
+    "Peran2020":1.08
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.609444,-0.803689 ]
+    },
+    "properties": {
+    "country":"GA",
+    "Negara":"GABON",
+    "X2015":"0.3",
+    "X2016":"0.4",
+    "X2017":"6",
+    "X2018":"0.5",
+    "X2019":"1.9",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.435973,55.378051 ]
+    },
+    "properties": {
+    "country":"GB",
+    "Negara":"INGGRIS",
+    "X2015":"818.1",
+    "X2016":"877.5",
+    "X2017":"977.7",
+    "X2018":"1,211.40",
+    "X2019":"1,047.00",
+    "X2020":"149.4",
+    "Peran2020":0.68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.604171,12.262776 ]
+    },
+    "properties": {
+    "country":"GD",
+    "Negara":"GRENADA",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0.1",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.356892,42.315407 ]
+    },
+    "properties": {
+    "country":"GE",
+    "Negara":"GEORGIA",
+    "X2015":"6.3",
+    "X2016":"0.3",
+    "X2017":"1",
+    "X2018":"0.7",
+    "X2019":"5.6",
+    "X2020":"0.3",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.125782,3.933889 ]
+    },
+    "properties": {
+    "country":"GF",
+    "Negara":"GUIANA PERANCIS",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0.3",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.585278,49.465691 ]
+    },
+    "properties": {
+    "country":"GG",
+    "Negara":"GUERNSEY",
+    "X2015":"0.2",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.023194,7.946527 ]
+    },
+    "properties": {
+    "country":"GH",
+    "Negara":"GHANA",
+    "X2015":"22.4",
+    "X2016":"7.5",
+    "X2017":"13.2",
+    "X2018":"17.9",
+    "X2019":"64.7",
+    "X2020":"0.9",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.345374,36.137741 ]
+    },
+    "properties": {
+    "country":"GI",
+    "Negara":"GIBRALTAR",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.604303,71.706936 ]
+    },
+    "properties": {
+    "country":"GL",
+    "Negara":"GREENLAND",
+    "X2015":"0.3",
+    "X2016":"0.2",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0.3",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.310139,13.443182 ]
+    },
+    "properties": {
+    "country":"GM",
+    "Negara":"GAMBIA",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0.1",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.696645,9.945587 ]
+    },
+    "properties": {
+    "country":"GN",
+    "Negara":"GUINEA",
+    "X2015":"0.3",
+    "X2016":"0.9",
+    "X2017":"0.9",
+    "X2018":"1.5",
+    "X2019":"1.3",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.067641,16.995971 ]
+    },
+    "properties": {
+    "country":"GP",
+    "Negara":"GUADELOUPE",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0.2",
+    "X2018":"1.4",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.824312,39.074208 ]
+    },
+    "properties": {
+    "country":"GR",
+    "Negara":"YUNANI",
+    "X2015":"76.4",
+    "X2016":"68.8",
+    "X2017":"99.4",
+    "X2018":"90.7",
+    "X2019":"100.4",
+    "X2020":"10.8",
+    "Peran2020":0.05
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -36.587909,-54.429579 ]
+    },
+    "properties": {
+    "country":"GS",
+    "Negara":"SOUTH GEORGIA & THE SOUTH SA",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "country":"GT",
+    "Negara":"GUATEMALA",
+    "X2015":"18.8",
+    "X2016":"19.4",
+    "X2017":"46.3",
+    "X2018":"0.9",
+    "X2019":"1.2",
+    "X2020":"0.4",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.793731,13.444304 ]
+    },
+    "properties": {
+    "country":"GU",
+    "Negara":"GUAM",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.180413,11.803749 ]
+    },
+    "properties": {
+    "country":"GW",
+    "Negara":"GUINEA (EQUATORIAL)",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.93018,4.860416 ]
+    },
+    "properties": {
+    "country":"GY",
+    "Negara":"GUYANA",
+    "X2015":"0",
+    "X2016":"0.3",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396428 ]
+    },
+    "properties": {
+    "country":"HK",
+    "Negara":"HONGKONG",
+    "X2015":"1,807.90",
+    "X2016":"1,763.10",
+    "X2017":"1,834.60",
+    "X2018":"2,590.90",
+    "X2019":"3,209.00",
+    "X2020":"418.8",
+    "Peran2020":1.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.504158,-53.08181 ]
+    },
+    "properties": {
+    "country":"HM",
+    "Negara":"HEARD ISLAND AND MCDONALD ISLAND",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"1",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "country":"HN",
+    "Negara":"HONDURAS",
+    "X2015":"1.3",
+    "X2016":"13.5",
+    "X2017":"2.5",
+    "X2018":"2.1",
+    "X2019":"1.4",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2,45.1 ]
+    },
+    "properties": {
+    "country":"HR",
+    "Negara":"CROATIA",
+    "X2015":"17.8",
+    "X2016":"13.8",
+    "X2017":"21.1",
+    "X2018":"39.3",
+    "X2019":"8.1",
+    "X2020":"1.8",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.285215,18.971187 ]
+    },
+    "properties": {
+    "country":"HT",
+    "Negara":"HAITI",
+    "X2015":"0.3",
+    "X2016":"0.2",
+    "X2017":"0.2",
+    "X2018":"0.3",
+    "X2019":"0.3",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.503304,47.162494 ]
+    },
+    "properties": {
+    "country":"HU",
+    "Negara":"HONGARIA",
+    "X2015":"61.5",
+    "X2016":"60.9",
+    "X2017":"67.9",
+    "X2018":"74.1",
+    "X2019":"99",
+    "X2020":"18.5",
+    "Peran2020":0.08
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.921327,-0.789275 ]
+    },
+    "properties": {
+    "country":"ID",
+    "Negara":"INDONESIA (BATAM)",
+    "X2015":"117.8",
+    "X2016":"120.3",
+    "X2017":"18.1",
+    "X2018":"35.3",
+    "X2019":"96.6",
+    "X2020":"6.9",
+    "Peran2020":0.03
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.24389,53.41291 ]
+    },
+    "properties": {
+    "country":"IE",
+    "Negara":"IRLANDIA",
+    "X2015":"103.3",
+    "X2016":"110.3",
+    "X2017":"124.6",
+    "X2018":"160.3",
+    "X2019":"149.3",
+    "X2020":"25.8",
+    "Peran2020":0.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.851612,31.046051 ]
+    },
+    "properties": {
+    "country":"IL",
+    "Negara":"ISRAEL",
+    "X2015":"77.7",
+    "X2016":"109.4",
+    "X2017":"100.8",
+    "X2018":"46.6",
+    "X2019":"25.2",
+    "X2020":"2.4",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.548056,54.236107 ]
+    },
+    "properties": {
+    "country":"IM",
+    "Negara":"ISLE OF MAN",
+    "X2015":"0.1",
+    "X2016":"0",
+    "X2017":"0.4",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"2.6",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.96288,20.593684 ]
+    },
+    "properties": {
+    "country":"IN",
+    "Negara":"INDIA",
+    "X2015":"2,665.70",
+    "X2016":"2,843.30",
+    "X2017":"3,787.80",
+    "X2018":"4,903.00",
+    "X2019":"4,083.90",
+    "X2020":"617.6",
+    "Peran2020":2.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.876519,-6.343194 ]
+    },
+    "properties": {
+    "country":"IO",
+    "Negara":"BRITISH INDIAN OCEAN TERRITORY",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.679291,33.223191 ]
+    },
+    "properties": {
+    "country":"IQ",
+    "Negara":"IRAK",
+    "X2015":"0.2",
+    "X2016":"0.1",
+    "X2017":"0.2",
+    "X2018":"0.1",
+    "X2019":"0.2",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.688046,32.427908 ]
+    },
+    "properties": {
+    "country":"IR",
+    "Negara":"IRAN",
+    "X2015":"38.6",
+    "X2016":"28.5",
+    "X2017":"63.4",
+    "X2018":"55.1",
+    "X2019":"8.6",
+    "X2020":"3.2",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.020835,64.963051 ]
+    },
+    "properties": {
+    "country":"IS",
+    "Negara":"ICELAND",
+    "X2015":"0.5",
+    "X2016":"1.2",
+    "X2017":"1.4",
+    "X2018":"6.6",
+    "X2019":"7.3",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.56738,41.87194 ]
+    },
+    "properties": {
+    "country":"IT",
+    "Negara":"ITALIA",
+    "X2015":"1,367.80",
+    "X2016":"1,386.90",
+    "X2017":"1,567.90",
+    "X2018":"1,839.70",
+    "X2019":"1,774.30",
+    "X2020":"298.7",
+    "Peran2020":1.35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.13125,49.214439 ]
+    },
+    "properties": {
+    "country":"JE",
+    "Negara":"JERSEY",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.297508,18.109581 ]
+    },
+    "properties": {
+    "country":"JM",
+    "Negara":"JAMAICA",
+    "X2015":"0.8",
+    "X2016":"0.5",
+    "X2017":"3.1",
+    "X2018":"0.3",
+    "X2019":"0.2",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.238414,30.585164 ]
+    },
+    "properties": {
+    "country":"JO",
+    "Negara":"YORDANIA",
+    "X2015":"160.8",
+    "X2016":"165.8",
+    "X2017":"188.6",
+    "X2018":"190.8",
+    "X2019":"176.9",
+    "X2020":"29",
+    "Peran2020":0.13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.252924,36.204824 ]
+    },
+    "properties": {
+    "country":"JP",
+    "Negara":"JEPANG",
+    "X2015":"13,232.70",
+    "X2016":"12,926.80",
+    "X2017":"15,209.30",
+    "X2018":"17,943.60",
+    "X2019":"15,586.20",
+    "X2020":"2,383.50",
+    "Peran2020":10.79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.906193,-0.023559 ]
+    },
+    "properties": {
+    "country":"KE",
+    "Negara":"KENYA",
+    "X2015":"12.3",
+    "X2016":"10",
+    "X2017":"13.3",
+    "X2018":"15.4",
+    "X2019":"25.3",
+    "X2020":"2.4",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.766098,41.20438 ]
+    },
+    "properties": {
+    "country":"KG",
+    "Negara":"KYRGYZSTAN",
+    "X2015":"0.8",
+    "X2016":"0.4",
+    "X2017":"0.2",
+    "X2018":"15.7",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.990963,12.565679 ]
+    },
+    "properties": {
+    "country":"KH",
+    "Negara":"KAMBOJA",
+    "X2015":"21.1",
+    "X2016":"25.3",
+    "X2017":"28.3",
+    "X2018":"33",
+    "X2019":"42.6",
+    "X2020":"11",
+    "Peran2020":0.05
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.734039,-3.370417 ]
+    },
+    "properties": {
+    "country":"KI",
+    "Negara":"KIRIBATI",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.872219,-11.875001 ]
+    },
+    "properties": {
+    "country":"KM",
+    "Negara":"REPUBLIK KOMORO",
+    "X2015":"0",
+    "X2016":"1.7",
+    "X2017":"9.6",
+    "X2018":"4",
+    "X2019":"0.2",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.782998,17.357822 ]
+    },
+    "properties": {
+    "country":"KN",
+    "Negara":"ST. KITTS-NEVIS",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.510093,40.339852 ]
+    },
+    "properties": {
+    "country":"KP",
+    "Negara":"KOREA UTARA",
+    "X2015":"2.6",
+    "X2016":"1.4",
+    "X2017":"2",
+    "X2018":"0.8",
+    "X2019":"3.1",
+    "X2020":"0.4",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.766922,35.907757 ]
+    },
+    "properties": {
+    "country":"KR",
+    "Negara":"KOREA SELATAN",
+    "X2015":"6,278.60",
+    "X2016":"5,909.20",
+    "X2017":"7,219.80",
+    "X2018":"7,715.60",
+    "X2019":"7,270.80",
+    "X2020":"1,166.50",
+    "Peran2020":5.28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.481766,29.31166 ]
+    },
+    "properties": {
+    "country":"KW",
+    "Negara":"KUWAIT",
+    "X2015":"234.7",
+    "X2016":"110.5",
+    "X2017":"60.8",
+    "X2018":"52.5",
+    "X2019":"29.7",
+    "X2020":"3.3",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.566956,19.513469 ]
+    },
+    "properties": {
+    "country":"KY",
+    "Negara":"KEPULAUAN CAYMAN",
+    "X2015":"0.1",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.923684,48.019573 ]
+    },
+    "properties": {
+    "country":"KZ",
+    "Negara":"KAZAKHSTAN",
+    "X2015":"13.8",
+    "X2016":"14.9",
+    "X2017":"37.6",
+    "X2018":"26.7",
+    "X2019":"141.8",
+    "X2020":"12.4",
+    "Peran2020":0.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.495496,19.85627 ]
+    },
+    "properties": {
+    "country":"LA",
+    "Negara":"LAOS",
+    "X2015":"0.8",
+    "X2016":"4.2",
+    "X2017":"11.9",
+    "X2018":"25.7",
+    "X2019":"31.1",
+    "X2020":"13.3",
+    "Peran2020":0.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.862285,33.854721 ]
+    },
+    "properties": {
+    "country":"LB",
+    "Negara":"LIBANON",
+    "X2015":"3.7",
+    "X2016":"1.7",
+    "X2017":"2.3",
+    "X2018":"6.4",
+    "X2019":"2.8",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.978893,13.909444 ]
+    },
+    "properties": {
+    "country":"LC",
+    "Negara":"SAINT LUCIA",
+    "X2015":"0.1",
+    "X2016":"0.1",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.555373,47.166 ]
+    },
+    "properties": {
+    "country":"LI",
+    "Negara":"LIECHTENSTIN",
+    "X2015":"0.1",
+    "X2016":"1.4",
+    "X2017":"0.1",
+    "X2018":"2.1",
+    "X2019":"0.4",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.771797,7.873054 ]
+    },
+    "properties": {
+    "country":"LK",
+    "Negara":"SRI LANGKA",
+    "X2015":"41.3",
+    "X2016":"44.3",
+    "X2017":"49.1",
+    "X2018":"42.9",
+    "X2019":"40.3",
+    "X2020":"7.2",
+    "Peran2020":0.03
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.429499,6.428055 ]
+    },
+    "properties": {
+    "country":"LR",
+    "Negara":"LIBERIA",
+    "X2015":"4.5",
+    "X2016":"4.4",
+    "X2017":"14.8",
+    "X2018":"0.9",
+    "X2019":"16.8",
+    "X2020":"9.1",
+    "Peran2020":0.04
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.233608,-29.609988 ]
+    },
+    "properties": {
+    "country":"LS",
+    "Negara":"LESOTHO",
+    "X2015":"0.1",
+    "X2016":"0.2",
+    "X2017":"0.2",
+    "X2018":"0.7",
+    "X2019":"0.4",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.881275,55.169438 ]
+    },
+    "properties": {
+    "country":"LT",
+    "Negara":"LITHUANIA",
+    "X2015":"9.6",
+    "X2016":"13.4",
+    "X2017":"34.4",
+    "X2018":"30.2",
+    "X2019":"46.3",
+    "X2020":"10",
+    "Peran2020":0.05
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.129583,49.815273 ]
+    },
+    "properties": {
+    "country":"LU",
+    "Negara":"LUKSEMBURG",
+    "X2015":"15.9",
+    "X2016":"38.8",
+    "X2017":"17.7",
+    "X2018":"21.2",
+    "X2019":"14.9",
+    "X2020":"1.4",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.603189,56.879635 ]
+    },
+    "properties": {
+    "country":"LV",
+    "Negara":"LATVIA",
+    "X2015":"4.9",
+    "X2016":"19.8",
+    "X2017":"9.8",
+    "X2018":"20",
+    "X2019":"31.2",
+    "X2020":"3.7",
+    "Peran2020":0.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.228331,26.3351 ]
+    },
+    "properties": {
+    "country":"LY",
+    "Negara":"LIBIA",
+    "X2015":"0.1",
+    "X2016":"0.1",
+    "X2017":"0.2",
+    "X2018":"0.1",
+    "X2019":"0.2",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "country":"MA",
+    "Negara":"MAROKO",
+    "X2015":"126.9",
+    "X2016":"62.3",
+    "X2017":"68.8",
+    "X2018":"90.8",
+    "X2019":"86.1",
+    "X2020":"18.8",
+    "Peran2020":0.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.412841,43.750298 ]
+    },
+    "properties": {
+    "country":"MC",
+    "Negara":"MONACO",
+    "X2015":"0.4",
+    "X2016":"0.3",
+    "X2017":"0.3",
+    "X2018":"0.5",
+    "X2019":"0.5",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.369885,47.411631 ]
+    },
+    "properties": {
+    "country":"MD",
+    "Negara":"MOLDOVA",
+    "X2015":"19",
+    "X2016":"13.8",
+    "X2017":"13.5",
+    "X2018":"13.8",
+    "X2019":"32.5",
+    "X2020":"4.1",
+    "Peran2020":0.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.37439,42.708678 ]
+    },
+    "properties": {
+    "country":"ME",
+    "Negara":"MONTENEGRO",
+    "X2015":"0.2",
+    "X2016":"0",
+    "X2017":"1.1",
+    "X2018":"3.8",
+    "X2019":"0.3",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.869107,-18.766947 ]
+    },
+    "properties": {
+    "country":"MG",
+    "Negara":"MADAGASCAR",
+    "X2015":"6.8",
+    "X2016":"54.8",
+    "X2017":"105.2",
+    "X2018":"87.5",
+    "X2019":"32.8",
+    "X2020":"4.3",
+    "Peran2020":0.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 171.184478,7.131474 ]
+    },
+    "properties": {
+    "country":"MH",
+    "Negara":"KEP. MARSHALL",
+    "X2015":"2.2",
+    "X2016":"15.9",
+    "X2017":"60.8",
+    "X2018":"57.1",
+    "X2019":"118.1",
+    "X2020":"1.6",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.996166,17.570692 ]
+    },
+    "properties": {
+    "country":"ML",
+    "Negara":"MALI",
+    "X2015":"43.8",
+    "X2016":"26.8",
+    "X2017":"26.9",
+    "X2018":"10.1",
+    "X2019":"12.1",
+    "X2020":"1.3",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.956223,21.913965 ]
+    },
+    "properties": {
+    "country":"MM",
+    "Negara":"BURMA",
+    "X2015":"160.4",
+    "X2016":"113.3",
+    "X2017":"145.7",
+    "X2018":"151.6",
+    "X2019":"182.7",
+    "X2020":"35.1",
+    "Peran2020":0.16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.846656,46.862496 ]
+    },
+    "properties": {
+    "country":"MN",
+    "Negara":"MONGOLIA",
+    "X2015":"0.8",
+    "X2016":"11.8",
+    "X2017":"9.5",
+    "X2018":"6.8",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.543873,22.198745 ]
+    },
+    "properties": {
+    "country":"MO",
+    "Negara":"MACAU",
+    "X2015":"9.2",
+    "X2016":"13.8",
+    "X2017":"11.7",
+    "X2018":"8.8",
+    "X2019":"4.7",
+    "X2020":"0.8",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.38469,17.33083 ]
+    },
+    "properties": {
+    "country":"MP",
+    "Negara":"MARIANAS UTARA",
+    "X2015":"0",
+    "X2016":"0.6",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.024174,14.641528 ]
+    },
+    "properties": {
+    "country":"MQ",
+    "Negara":"MARTINIQUE",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0.1",
+    "X2018":"0.3",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.940835,21.00789 ]
+    },
+    "properties": {
+    "country":"MR",
+    "Negara":"MAURITANIA",
+    "X2015":"1.6",
+    "X2016":"0.5",
+    "X2017":"2.6",
+    "X2018":"0.7",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.375416,35.937496 ]
+    },
+    "properties": {
+    "country":"MT",
+    "Negara":"MALTA",
+    "X2015":"1",
+    "X2016":"15.8",
+    "X2017":"6",
+    "X2018":"5",
+    "X2019":"10.8",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.552152,-20.348404 ]
+    },
+    "properties": {
+    "country":"MU",
+    "Negara":"MAURITIUS",
+    "X2015":"1.8",
+    "X2016":"1",
+    "X2017":"7.9",
+    "X2018":"4.1",
+    "X2019":"4.2",
+    "X2020":"0.8",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.22068,3.202778 ]
+    },
+    "properties": {
+    "country":"MV",
+    "Negara":"REPUBLIK MALADEWA",
+    "X2015":"0",
+    "X2016":"0.1",
+    "X2017":"0",
+    "X2018":"1.2",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.301525,-13.254308 ]
+    },
+    "properties": {
+    "country":"MW",
+    "Negara":"MALAWI",
+    "X2015":"5.2",
+    "X2016":"7.8",
+    "X2017":"12.4",
+    "X2018":"14.6",
+    "X2019":"5",
+    "X2020":"2.4",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.552784,23.634501 ]
+    },
+    "properties": {
+    "country":"MX",
+    "Negara":"MEKSIKO",
+    "X2015":"197.4",
+    "X2016":"177",
+    "X2017":"219.5",
+    "X2018":"287.3",
+    "X2019":"265.6",
+    "X2020":"49.8",
+    "Peran2020":0.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.975766,4.210484 ]
+    },
+    "properties": {
+    "country":"MY",
+    "Negara":"MALAYSIA",
+    "X2015":"4,979.40",
+    "X2016":"4,731.60",
+    "X2017":"5,286.00",
+    "X2018":"6,167.30",
+    "X2019":"5,799.50",
+    "X2020":"975.9",
+    "Peran2020":4.42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.529562,-18.665695 ]
+    },
+    "properties": {
+    "country":"MZ",
+    "Negara":"MOZAMBIK",
+    "X2015":"16.5",
+    "X2016":"9.4",
+    "X2017":"28.1",
+    "X2018":"30.5",
+    "X2019":"19.6",
+    "X2020":"1.3",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.618042,-20.904305 ]
+    },
+    "properties": {
+    "country":"NC",
+    "Negara":"KALEDONIA BARU",
+    "X2015":"0.4",
+    "X2016":"0.2",
+    "X2017":"0.5",
+    "X2018":"0.9",
+    "X2019":"0.2",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.081666,17.607789 ]
+    },
+    "properties": {
+    "country":"NE",
+    "Negara":"NIGER",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0.7",
+    "X2018":"0.2",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.954712,-29.040835 ]
+    },
+    "properties": {
+    "country":"NF",
+    "Negara":"KEPULAUAN NORFOLK",
+    "X2015":"0",
+    "X2016":"0.2",
+    "X2017":"0.3",
+    "X2018":"0",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.675277,9.081999 ]
+    },
+    "properties": {
+    "country":"NG",
+    "Negara":"NIGERIA",
+    "X2015":"3.7",
+    "X2016":"7.9",
+    "X2017":"36.1",
+    "X2018":"76.6",
+    "X2019":"65.4",
+    "X2020":"10.3",
+    "Peran2020":0.05
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.207229,12.865416 ]
+    },
+    "properties": {
+    "country":"NI",
+    "Negara":"NIKARAGUA",
+    "X2015":"0.2",
+    "X2016":"3.8",
+    "X2017":"0.3",
+    "X2018":"0.5",
+    "X2019":"0.2",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.291266,52.132633 ]
+    },
+    "properties": {
+    "country":"NL",
+    "Negara":"NETHERLANDS ANTILLES",
+    "X2015":"0.6",
+    "X2016":"1.6",
+    "X2017":"0.2",
+    "X2018":"0.1",
+    "X2019":"0.4",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.468946,60.472024 ]
+    },
+    "properties": {
+    "country":"NO",
+    "Negara":"NORWEGIA",
+    "X2015":"226.3",
+    "X2016":"195.6",
+    "X2017":"136.9",
+    "X2018":"106.1",
+    "X2019":"164.3",
+    "X2020":"19.3",
+    "Peran2020":0.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.124008,28.394857 ]
+    },
+    "properties": {
+    "country":"NP",
+    "Negara":"NEPAL",
+    "X2015":"0",
+    "X2016":"0.1",
+    "X2017":"0.2",
+    "X2018":"0.2",
+    "X2019":"0.2",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.931503,-0.522778 ]
+    },
+    "properties": {
+    "country":"NR",
+    "Negara":"NAURU",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0.1",
+    "X2018":"0.1",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.867233,-19.054445 ]
+    },
+    "properties": {
+    "country":"NU",
+    "Negara":"NIUE",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"52.6",
+    "X2018":"129.2",
+    "X2019":"58.8",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.885971,-40.900557 ]
+    },
+    "properties": {
+    "country":"NZ",
+    "Negara":"SELANDIA BARU",
+    "X2015":"628.4",
+    "X2016":"660.9",
+    "X2017":"751.2",
+    "X2018":"808.4",
+    "X2019":"754.6",
+    "X2020":"115.4",
+    "Peran2020":0.52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.923255,21.512583 ]
+    },
+    "properties": {
+    "country":"OM",
+    "Negara":"OMAN",
+    "X2015":"114.1",
+    "X2016":"61.4",
+    "X2017":"260.2",
+    "X2018":"348.9",
+    "X2019":"447.7",
+    "X2020":"39.8",
+    "Peran2020":0.18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782127,8.537981 ]
+    },
+    "properties": {
+    "country":"PA",
+    "Negara":"PANAMA",
+    "X2015":"44.6",
+    "X2016":"52.3",
+    "X2017":"26.8",
+    "X2018":"42.2",
+    "X2019":"28.8",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.015152,-9.189967 ]
+    },
+    "properties": {
+    "country":"PE",
+    "Negara":"PERU",
+    "X2015":"52.7",
+    "X2016":"59.3",
+    "X2017":"63.2",
+    "X2018":"56.5",
+    "X2019":"65.9",
+    "X2020":"12.6",
+    "Peran2020":0.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.406843,-17.679742 ]
+    },
+    "properties": {
+    "country":"PF",
+    "Negara":"POLYNESIA PERANCIS",
+    "X2015":"0.2",
+    "X2016":"0.3",
+    "X2017":"0.1",
+    "X2018":"0.1",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.95555,-6.314993 ]
+    },
+    "properties": {
+    "country":"PG",
+    "Negara":"PAPUA NUGINI",
+    "X2015":"19.6",
+    "X2016":"28.8",
+    "X2017":"27.1",
+    "X2018":"43.3",
+    "X2019":"20.5",
+    "X2020":"3.8",
+    "Peran2020":0.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.774017,12.879721 ]
+    },
+    "properties": {
+    "country":"PH",
+    "Negara":"PILIPINA",
+    "X2015":"680",
+    "X2016":"820.2",
+    "X2017":"859.3",
+    "X2018":"934.4",
+    "X2019":"819.6",
+    "X2020":"119.5",
+    "Peran2020":0.54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.345116,30.375321 ]
+    },
+    "properties": {
+    "country":"PK",
+    "Negara":"PAKISTAN",
+    "X2015":"174.5",
+    "X2016":"157.3",
+    "X2017":"241.1",
+    "X2018":"641.4",
+    "X2019":"378",
+    "X2020":"39.6",
+    "Peran2020":0.18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.145136,51.919438 ]
+    },
+    "properties": {
+    "country":"PL",
+    "Negara":"POLANDIA",
+    "X2015":"150.2",
+    "X2016":"141.2",
+    "X2017":"140.4",
+    "X2018":"178",
+    "X2019":"224.4",
+    "X2020":"67.3",
+    "Peran2020":0.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -127.439308,-24.703615 ]
+    },
+    "properties": {
+    "country":"PN",
+    "Negara":"KEP. PITCAIRN",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.590149,18.220833 ]
+    },
+    "properties": {
+    "country":"PR",
+    "Negara":"PUERTO RICO",
+    "X2015":"21.5",
+    "X2016":"20.7",
+    "X2017":"27.8",
+    "X2018":"36.1",
+    "X2019":"57.2",
+    "X2020":"8.3",
+    "Peran2020":0.04
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.233154,31.952162 ]
+    },
+    "properties": {
+    "country":"PS",
+    "Negara":"PALESTINA",
+    "X2015":"0.2",
+    "X2016":"0.3",
+    "X2017":"0.3",
+    "X2018":"0.7",
+    "X2019":"1.4",
+    "X2020":"0.8",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.224454,39.399872 ]
+    },
+    "properties": {
+    "country":"PT",
+    "Negara":"PORTUGAL",
+    "X2015":"43.4",
+    "X2016":"35",
+    "X2017":"45.1",
+    "X2018":"40.9",
+    "X2019":"45.2",
+    "X2020":"8.7",
+    "Peran2020":0.04
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.58252,7.51498 ]
+    },
+    "properties": {
+    "country":"PW",
+    "Negara":"PALAU",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.443832,-23.442503 ]
+    },
+    "properties": {
+    "country":"PY",
+    "Negara":"PARAGUAY",
+    "X2015":"10.6",
+    "X2016":"62.9",
+    "X2017":"36.6",
+    "X2018":"91.6",
+    "X2019":"28.1",
+    "X2020":"1.7",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.183884,25.354826 ]
+    },
+    "properties": {
+    "country":"QA",
+    "Negara":"QATAR",
+    "X2015":"135.8",
+    "X2016":"114.6",
+    "X2017":"137.6",
+    "X2018":"122.9",
+    "X2019":"128.4",
+    "X2020":"50.9",
+    "Peran2020":0.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.536384,-21.115141 ]
+    },
+    "properties": {
+    "country":"RE",
+    "Negara":"REUNION",
+    "X2015":"0.3",
+    "X2016":"0",
+    "X2017":"1.5",
+    "X2018":"3.2",
+    "X2019":"9.4",
+    "X2020":"0.6",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.96676,45.943161 ]
+    },
+    "properties": {
+    "country":"RO",
+    "Negara":"RUMANIA",
+    "X2015":"25.1",
+    "X2016":"42.1",
+    "X2017":"47",
+    "X2018":"37.4",
+    "X2019":"24.2",
+    "X2020":"20.8",
+    "Peran2020":0.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.005859,44.016521 ]
+    },
+    "properties": {
+    "country":"RS",
+    "Negara":"SERBIA",
+    "X2015":"9.1",
+    "X2016":"25.3",
+    "X2017":"16.7",
+    "X2018":"37.3",
+    "X2019":"11",
+    "X2020":"1.4",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.318756,61.52401 ]
+    },
+    "properties": {
+    "country":"RU",
+    "Negara":"FEDERASI RUSIA",
+    "X2015":"903.9",
+    "X2016":"850.6",
+    "X2017":"1,302.70",
+    "X2018":"1,551.10",
+    "X2019":"1,204.20",
+    "X2020":"200.8",
+    "Peran2020":0.91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.873888,-1.940278 ]
+    },
+    "properties": {
+    "country":"RW",
+    "Negara":"RWANDA",
+    "X2015":"0",
+    "X2016":"0.1",
+    "X2017":"0",
+    "X2018":"0.1",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.079162,23.885942 ]
+    },
+    "properties": {
+    "country":"SA",
+    "Negara":"SAUDI ARABIA",
+    "X2015":"672.9",
+    "X2016":"705.5",
+    "X2017":"808.4",
+    "X2018":"1,259.40",
+    "X2019":"733.6",
+    "X2020":"85.7",
+    "Peran2020":0.39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.156194,-9.64571 ]
+    },
+    "properties": {
+    "country":"SB",
+    "Negara":"KEPULAUAN SALOMON",
+    "X2015":"4.3",
+    "X2016":"0.8",
+    "X2017":"0.6",
+    "X2018":"2.6",
+    "X2019":"2.6",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.491977,-4.679574 ]
+    },
+    "properties": {
+    "country":"SC",
+    "Negara":"SEYCHELLES",
+    "X2015":"5.6",
+    "X2016":"7.1",
+    "X2017":"3.2",
+    "X2018":"10",
+    "X2019":"18.5",
+    "X2020":"3.5",
+    "Peran2020":0.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.217636,12.862807 ]
+    },
+    "properties": {
+    "country":"SD",
+    "Negara":"SUDAN",
+    "X2015":"0.3",
+    "X2016":"1.7",
+    "X2017":"16.6",
+    "X2018":"47",
+    "X2019":"110.8",
+    "X2020":"0.3",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.643501,60.128161 ]
+    },
+    "properties": {
+    "country":"SE",
+    "Negara":"SWEDIA",
+    "X2015":"675.6",
+    "X2016":"510.8",
+    "X2017":"587.2",
+    "X2018":"702.3",
+    "X2019":"561.2",
+    "X2020":"67.4",
+    "Peran2020":0.31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "country":"SG",
+    "Negara":"SINGAPURA",
+    "X2015":"8,975.30",
+    "X2016":"7,661.00",
+    "X2017":"8,284.80",
+    "X2018":"9,581.70",
+    "X2019":"9,185.00",
+    "X2020":"1,476.50",
+    "Peran2020":6.69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.030696,-24.143474 ]
+    },
+    "properties": {
+    "country":"SH",
+    "Negara":"ST. HELENA",
+    "X2015":"0.3",
+    "X2016":"0",
+    "X2017":"0.1",
+    "X2018":"0.1",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.995463,46.151241 ]
+    },
+    "properties": {
+    "country":"SI",
+    "Negara":"SLOVENIA",
+    "X2015":"12.8",
+    "X2016":"13.5",
+    "X2017":"13.1",
+    "X2018":"17.3",
+    "X2019":"21.5",
+    "X2020":"3.2",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.670272,77.553604 ]
+    },
+    "properties": {
+    "country":"SJ",
+    "Negara":"SVALBARD AN JAN MAYEN",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.699024,48.669026 ]
+    },
+    "properties": {
+    "country":"SK",
+    "Negara":"SLOVAKIA",
+    "X2015":"14.8",
+    "X2016":"17.9",
+    "X2017":"26.6",
+    "X2018":"19.1",
+    "X2019":"22.3",
+    "X2020":"2.6",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.779889,8.460555 ]
+    },
+    "properties": {
+    "country":"SL",
+    "Negara":"SIERA LEONE",
+    "X2015":"0.2",
+    "X2016":"0.4",
+    "X2017":"0.1",
+    "X2018":"1.1",
+    "X2019":"1.6",
+    "X2020":"0.3",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.457777,43.94236 ]
+    },
+    "properties": {
+    "country":"SM",
+    "Negara":"SAN MARINO",
+    "X2015":"0",
+    "X2016":"0.1",
+    "X2017":"0.2",
+    "X2018":"0",
+    "X2019":"0.2",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.452362,14.497401 ]
+    },
+    "properties": {
+    "country":"SN",
+    "Negara":"SINEGAL",
+    "X2015":"1.7",
+    "X2016":"9.3",
+    "X2017":"3.5",
+    "X2018":"2.3",
+    "X2019":"2.9",
+    "X2020":"1.1",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.199616,5.152149 ]
+    },
+    "properties": {
+    "country":"SO",
+    "Negara":"SOMALIA",
+    "X2015":"0.2",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.027783,3.919305 ]
+    },
+    "properties": {
+    "country":"SR",
+    "Negara":"SURINAME",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0.2",
+    "X2019":"0.9",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.613081,0.18636 ]
+    },
+    "properties": {
+    "country":"ST",
+    "Negara":"SAO TOME & PRINCIPE",
+    "X2015":"0",
+    "X2016":"0.2",
+    "X2017":"0.3",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "country":"SV",
+    "Negara":"EL SALVADOR",
+    "X2015":"1.7",
+    "X2016":"24.6",
+    "X2017":"40.3",
+    "X2018":"1.1",
+    "X2019":"0.9",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.996815,34.802075 ]
+    },
+    "properties": {
+    "country":"SY",
+    "Negara":"SIRIA",
+    "X2015":"1.6",
+    "X2016":"1.4",
+    "X2017":"0",
+    "X2018":"0.2",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.465866,-26.522503 ]
+    },
+    "properties": {
+    "country":"SZ",
+    "Negara":"SWAZILAND",
+    "X2015":"1",
+    "X2016":"1.1",
+    "X2017":"2.6",
+    "X2018":"2.2",
+    "X2019":"3.4",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.797928,21.694025 ]
+    },
+    "properties": {
+    "country":"TC",
+    "Negara":"KEP. TURKS & CAICOS",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.732207,15.454166 ]
+    },
+    "properties": {
+    "country":"TD",
+    "Negara":"C H A D",
+    "X2015":"0.4",
+    "X2016":"2.2",
+    "X2017":"3.2",
+    "X2018":"2.3",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.348557,-49.280366 ]
+    },
+    "properties": {
+    "country":"TF",
+    "Negara":"FRENCH SOUTHERN TERRITORIES",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.824782,8.619543 ]
+    },
+    "properties": {
+    "country":"TG",
+    "Negara":"TOGO",
+    "X2015":"16.2",
+    "X2016":"10.2",
+    "X2017":"10",
+    "X2018":"13.2",
+    "X2019":"5.4",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.992541,15.870032 ]
+    },
+    "properties": {
+    "country":"TH",
+    "Negara":"THAILAND",
+    "X2015":"8,018.70",
+    "X2016":"8,601.20",
+    "X2017":"9,192.10",
+    "X2018":"10,851.90",
+    "X2019":"9,414.40",
+    "X2020":"1,466.20",
+    "Peran2020":6.64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.276093,38.861034 ]
+    },
+    "properties": {
+    "country":"TJ",
+    "Negara":"TAJIKISTAN",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -171.855881,-8.967363 ]
+    },
+    "properties": {
+    "country":"TK",
+    "Negara":"TOKELAU",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"2.8",
+    "X2018":"1.5",
+    "X2019":"0.7",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.727539,-8.874217 ]
+    },
+    "properties": {
+    "country":"TL",
+    "Negara":"TIMOR TIMUR",
+    "X2015":"0.5",
+    "X2016":"1.5",
+    "X2017":"1.8",
+    "X2018":"3.7",
+    "X2019":"6.6",
+    "X2020":"0.9",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 59.556278,38.969719 ]
+    },
+    "properties": {
+    "country":"TM",
+    "Negara":"TURKMENISTAN",
+    "X2015":"8.4",
+    "X2016":"2.2",
+    "X2017":"0.9",
+    "X2018":"0.5",
+    "X2019":"0.1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.537499,33.886917 ]
+    },
+    "properties": {
+    "country":"TN",
+    "Negara":"TUNISIA",
+    "X2015":"21.2",
+    "X2016":"22.8",
+    "X2017":"32.8",
+    "X2018":"29.2",
+    "X2019":"27.5",
+    "X2020":"9.6",
+    "Peran2020":0.04
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.198242,-21.178986 ]
+    },
+    "properties": {
+    "country":"TO",
+    "Negara":"TONGA",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.243322,38.963745 ]
+    },
+    "properties": {
+    "country":"TR",
+    "Negara":"TURKI",
+    "X2015":"249.7",
+    "X2016":"278.2",
+    "X2017":"311",
+    "X2018":"358.3",
+    "X2019":"342.2",
+    "X2020":"55.8",
+    "Peran2020":0.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.222503,10.691803 ]
+    },
+    "properties": {
+    "country":"TT",
+    "Negara":"TRINIDAD & TOBAGO",
+    "X2015":"0.5",
+    "X2016":"2.9",
+    "X2017":"0",
+    "X2018":"0.1",
+    "X2019":"1",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 177.64933,-7.109535 ]
+    },
+    "properties": {
+    "country":"TV",
+    "Negara":"TUVALU",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"7.5",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.960515,23.69781 ]
+    },
+    "properties": {
+    "country":"TW",
+    "Negara":"TAIWAN",
+    "X2015":"3,130.70",
+    "X2016":"2,856.50",
+    "X2017":"3,241.20",
+    "X2018":"3,541.60",
+    "X2019":"3,628.30",
+    "X2020":"582.8",
+    "Peran2020":2.64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.888822,-6.369028 ]
+    },
+    "properties": {
+    "country":"TZ",
+    "Negara":"TANZANIA",
+    "X2015":"21.5",
+    "X2016":"68.9",
+    "X2017":"26",
+    "X2018":"71.5",
+    "X2019":"18.3",
+    "X2020":"3.9",
+    "Peran2020":0.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.16558,48.379433 ]
+    },
+    "properties": {
+    "country":"UA",
+    "Negara":"UKRAINE",
+    "X2015":"198.4",
+    "X2016":"562.3",
+    "X2017":"539.1",
+    "X2018":"822.8",
+    "X2019":"1,008.20",
+    "X2020":"90.1",
+    "Peran2020":0.41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.290275,1.373333 ]
+    },
+    "properties": {
+    "country":"UG",
+    "Negara":"UGANDA",
+    "X2015":"10.2",
+    "X2016":"15.7",
+    "X2017":"23.5",
+    "X2018":"13.6",
+    "X2019":"4.7",
+    "X2020":"0.8",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "country":"UM",
+    "Negara":"US MINOR OUTLYING",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.712891,37.09024 ]
+    },
+    "properties": {
+    "country":"US",
+    "Negara":"AMERIKA SERIKAT",
+    "X2015":"7,550.80",
+    "X2016":"7,206.50",
+    "X2017":"7,698.90",
+    "X2018":"9,108.00",
+    "X2019":"8,095.80",
+    "X2020":"1,156.50",
+    "Peran2020":5.24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.765835,-32.522779 ]
+    },
+    "properties": {
+    "country":"UY",
+    "Negara":"URUGUAY",
+    "X2015":"17.1",
+    "X2016":"25.1",
+    "X2017":"13.3",
+    "X2018":"9.2",
+    "X2019":"20.1",
+    "X2020":"2.4",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.585262,41.377491 ]
+    },
+    "properties": {
+    "country":"UZ",
+    "Negara":"UZBEKISTAN",
+    "X2015":"7.3",
+    "X2016":"7.3",
+    "X2017":"28.7",
+    "X2018":"55.8",
+    "X2019":"22.5",
+    "X2020":"2.3",
+    "Peran2020":0.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.453389,41.902916 ]
+    },
+    "properties": {
+    "country":"VA",
+    "Negara":"VATIKAN CITY STATE",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.287228,12.984305 ]
+    },
+    "properties": {
+    "country":"VC",
+    "Negara":"ST VINCENT&GRENADINES",
+    "X2015":"0.9",
+    "X2016":"0.3",
+    "X2017":"3.3",
+    "X2018":"0.2",
+    "X2019":"0.4",
+    "X2020":"0.8",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.58973,6.42375 ]
+    },
+    "properties": {
+    "country":"VE",
+    "Negara":"VENEZUELA",
+    "X2015":"0.4",
+    "X2016":"0.3",
+    "X2017":"2.5",
+    "X2018":"10.5",
+    "X2019":"6",
+    "X2020":"4.1",
+    "Peran2020":0.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.639968,18.420695 ]
+    },
+    "properties": {
+    "country":"VG",
+    "Negara":"KEP. VIRGINIA U.S. (1)",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.896335,18.335765 ]
+    },
+    "properties": {
+    "country":"VI",
+    "Negara":"KEP. VIRGINIA U.S. (2)",
+    "X2015":"2",
+    "X2016":"0",
+    "X2017":"0.8",
+    "X2018":"0.1",
+    "X2019":"0.3",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.277199,14.058324 ]
+    },
+    "properties": {
+    "country":"VN",
+    "Negara":"VIETNAM",
+    "X2015":"3,161.40",
+    "X2016":"3,175.20",
+    "X2017":"3,228.20",
+    "X2018":"3,793.20",
+    "X2019":"3,795.80",
+    "X2020":"608.6",
+    "Peran2020":2.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.959158,-15.376706 ]
+    },
+    "properties": {
+    "country":"VU",
+    "Negara":"VANUATU",
+    "X2015":"0.1",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0.7",
+    "X2019":"0.7",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.156097,-13.768752 ]
+    },
+    "properties": {
+    "country":"WF",
+    "Negara":"Sint Maarten (Dutch Part)",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.104629,-13.759029 ]
+    },
+    "properties": {
+    "country":"WS",
+    "Negara":"SAMOA",
+    "X2015":"1.5",
+    "X2016":"1.1",
+    "X2017":"1",
+    "X2018":"1.1",
+    "X2019":"2.9",
+    "X2020":"0.1",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.902977,42.602636 ]
+    },
+    "properties": {
+    "country":"XK",
+    "Negara":"KOSOVO",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.516388,15.552727 ]
+    },
+    "properties": {
+    "country":"YE",
+    "Negara":"YAMAN",
+    "X2015":"0.6",
+    "X2016":"1",
+    "X2017":"1.9",
+    "X2018":"0.8",
+    "X2019":"1.4",
+    "X2020":"0.2",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.166244,-12.8275 ]
+    },
+    "properties": {
+    "country":"YT",
+    "Negara":"MAYOTTE",
+    "X2015":"0",
+    "X2016":"0",
+    "X2017":"0",
+    "X2018":"0",
+    "X2019":"0",
+    "X2020":"0",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.937506,-30.559482 ]
+    },
+    "properties": {
+    "country":"ZA",
+    "Negara":"REP.AFRIKA SELATAN",
+    "X2015":"230.6",
+    "X2016":"289.7",
+    "X2017":"433.8",
+    "X2018":"1,067.20",
+    "X2019":"814.6",
+    "X2020":"96.7",
+    "Peran2020":0.44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.849332,-13.133897 ]
+    },
+    "properties": {
+    "country":"ZM",
+    "Negara":"ZAMBIA",
+    "X2015":"9.2",
+    "X2016":"16.6",
+    "X2017":"7.5",
+    "X2018":"2.4",
+    "X2019":"7",
+    "X2020":"0.3",
+    "Peran2020":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.154857,-19.015438 ]
+    },
+    "properties": {
+    "country":"ZW",
+    "Negara":"ZIMBABWE",
+    "X2015":"25.3",
+    "X2016":"32.2",
+    "X2017":"36.2",
+    "X2018":"147",
+    "X2019":"67.6",
+    "X2020":"12.1",
+    "Peran2020":0.05
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.95764 ]
+    },
+    "properties": {
+    "country":"NA",
+    "Negara":"NAMIBIA",
+    "X2015":"7.5",
+    "X2016":"3.3",
+    "X2017":"2",
+    "X2018":"12.9",
+    "X2019":"9.2",
+    "X2020":"1.9",
+    "Peran2020":0.01
+    }
+  }
+]
+}
